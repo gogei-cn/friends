@@ -18,7 +18,7 @@
 
 **如何提交意向申请？**
 
-按照 [Issue 模板](https://github.com/xaoxuu/friends/issues/new/choose) 内容填写并提交，当条件均达成后，博主会通过审核，通过后稍等片刻即可在友链页面看到您的友链。
+按照 [Issue 模板](https://github.com/gogei-cn/friends/issues/new/choose) 内容填写并提交，当条件均达成后，博主会通过审核，通过后稍等片刻即可在友链页面看到您的友链。
 
 <br>
 
@@ -27,12 +27,11 @@
 当你添加本站友链时，建议复制以下信息：
 
 ```yaml
-title: xaoxuu
-url: https://xaoxuu.com
-avatar: https://cn.cravatar.com/avatar/15e59a60168a6ce1bfc3eddfca8c5a54?s=512
-screenshot: https://xaoxuu.com/assets/xaoxuu/2022/10/23/63542895cfd29.png
-description: For all time, always.
-feed: https://xaoxuu.com/atom.xml
+title: Gogei的静默日志
+url: https://gogei.netlify.app/
+avatar: https://weavatar.com/avatar/f15ff8678e819e2477e30914f4711fef37f2b61ddf0c8fe6cb42db983d65eafd?s=512
+screenshot: https: I will AK IOI | 字如萤逝，码若流光
+feed: 
 ```
 
 > 头像地址末尾的 `s=512` 是尺寸，如果显示框架较小可以自行调节至合适的尺寸。

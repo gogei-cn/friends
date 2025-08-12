@@ -32,8 +32,9 @@ Fork自xaoxuu大佬的[项目](https://github.com/xaoxuu/friends)
 title: Gogei的静默日志
 url: https://gogei.netlify.app/
 avatar: https://weavatar.com/avatar/f15ff8678e819e2477e30914f4711fef37f2b61ddf0c8fe6cb42db983d65eafd?s=512
-screenshot: https: I will AK IOI | 字如萤逝，码若流光
-feed: 
+screenshot: https://pic1.imgdb.cn/item/689b2fe458cb8da5c81f18c9.png
+description: I will AK IOI | 字如萤逝，码若流光
+feed: https://gogei.netlify.app/atom.xml
 ```
 
 > 头像地址末尾的 `s=512` 是尺寸，如果显示框架较小可以自行调节至合适的尺寸。

@@ -1,3 +1,5 @@
+Fork自xaoxuu大佬的[项目](https://github.com/xaoxuu/friends)
+
 **申请前须知**
 
 - 本站友链均为动态友链，页面加载后通过请求接口渲染出友链数据。

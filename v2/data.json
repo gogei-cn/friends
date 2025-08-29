@@ -1,0 +1,58 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "Gogei的静默日志",
+      "url": "https://gogei.netlify.app/",
+      "icon": "https://gogei.netlify.app/images/favicon.ico",
+      "snapshot": "https://pic1.imgdb.cn/item/689b2fe458cb8da5c81f18c9.png",
+      "description": "I will AK IOI | 字如萤逝，码若流光",
+      "feed": "https://gogei.netlify.app/atom.xml",
+      "posts": [
+        {
+          "title": "华为手机安装第三方字体教程",
+          "link": "http://gogei.netlify.app/2025/07/28/%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%E5%AE%89%E8%A3%85%E7%AC%AC%E4%B8%89%E6%96%B9%E5%AD%97%E4%BD%93%E6%95%99%E7%A8%8B/",
+          "published": "2025-07-28 08:36"
+        },
+        {
+          "title": "乘法逆元笔记",
+          "link": "http://gogei.netlify.app/2025/07/27/%E4%B9%98%E6%B3%95%E9%80%86%E5%85%83%E7%AC%94%E8%AE%B0/",
+          "published": "2025-07-27 07:12"
+        },
+        {
+          "title": "注册Google账号必成功教程",
+          "link": "http://gogei.netlify.app/2025/07/22/%E6%B3%A8%E5%86%8CGoogle%E8%B4%A6%E5%8F%B7%E5%BF%85%E6%88%90%E5%8A%9F%E6%95%99%E7%A8%8B/",
+          "published": "2025-07-22 03:08"
+        }
+      ],
+      "issue_number": 2,
+      "labels": [
+        {
+          "name": "本站站长",
+          "color": "0e8a16",
+          "hue": 124,
+          "saturation": 82,
+          "lightness": 30
+        }
+      ]
+    },
+    {
+      "title": "SSP",
+      "url": "https://superspecialpig.netlify.app/",
+      "icon": "https://superspecialpig.netlify.app/images/ssp_logo.svg",
+      "snapshot": "https://pic1.imgdb.cn/item/689b232b58cb8da5c81ee440.png",
+      "description": "Super. Special. Pig.",
+      "feed": "",
+      "issue_number": 5,
+      "labels": [
+        {
+          "name": "老朋友",
+          "color": "1d76db",
+          "hue": 212,
+          "saturation": 77,
+          "lightness": 49
+        }
+      ]
+    }
+  ]
+}
